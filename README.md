@@ -9,8 +9,8 @@ pip install numpy matplotlib
 ```
 ## 📁 Project Structure
 
-├── Linear_regression_Implementation.py   # Contains the LinearRegression class and MSE function
-├── test_LR.ipynb          # Jupyter Notebook to test and visualize the model
+├── Linear_regression_Implementation.py   # Contains the LinearRegression class and MSE function  
+├── test_LR.ipynb          # Jupyter Notebook to test and visualize the model  
 ├── README.md              # Project documentation
 
 ## 🧪 Features
